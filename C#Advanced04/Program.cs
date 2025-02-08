@@ -1,5 +1,7 @@
 ﻿namespace C_Advanced04;
- using System.Collections;
+
+using C_Advanced04.Fifa;
+using System.Collections;
 
 internal class Program
 {
@@ -111,12 +113,36 @@ internal class Program
 
 
 
+        #region Event EX01
+        //Ball ball = new Ball();
+
+        //Console.WriteLine(ball);
+
+        //ball.Location = new Location { X = 10, Y = 20, Z = 30 };
+
+        //Console.WriteLine(ball);
+
+        //Player player = new Player { Name = "Messi", TeamName = "Miami" };
+        // Player player1 = new Player { Name = "Alba", TeamName = "Miami" };
+
+        //Player player2 = new Player { Name = "Yamal", TeamName = "barcelona" };
+        // Player player3 = new Player { Name = "baldi", TeamName = "Barcelona" };
 
 
+        //Refree refree = new Refree { Name = "Ibrahim" };
 
 
+        //ball.Players.Add(player);
+        //ball.Players.Add(player1);
+
+        //ball.Players.Add(player2);
+        //ball.Players.Add(player3);
+        //ball.Refrees.Add(refree);
+
+        //ball.Location = new Location { X = 10, Y = 20, Z = 30 };
 
 
+        #endregion
 
 
 
