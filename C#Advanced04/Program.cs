@@ -83,6 +83,31 @@ internal class Program
         // } 
         #endregion
 
+        #region SortedDictionary
+        //SortedDictionary<int , string> Pairs = new SortedDictionary int, string >();
+
+        // Pairs.Add(23, "Ahmed");
+        //  Pairs.Add( 13, "Omar");
+        //   Pairs.Add( 20, "Amr");
+        //   Pairs.Add( 1, "Amr");
+
+
+
+        // foreach (KeyValuePair<int, string> item in Pairs)
+        // {
+        //     Console.WriteLine(item);
+        // } 
+        #endregion
+
+        #region SortedList
+        //SortedList<int, string> Pairs = new SortedList<int, string>();
+
+        //  Pairs.Add(23, "Ahmed");
+        //Pairs.Add(13, "Omar");
+        //    Pairs.Add(20, "Amr"); 
+        //Pairs.Add(20, "Amr");
+
+        #endregion
 
 
 
