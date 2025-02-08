@@ -1,10 +1,6 @@
 ﻿namespace C_Advanced04;
  using System.Collections;
 
-
-
-
-
 internal class Program
 {
     static void Main(string[] args)
@@ -73,7 +69,19 @@ internal class Program
         //} 
         #endregion
 
+        #region HashSet
+        //HashSet<string> Names = new HashSet<string>();
 
+        // Names.Add("Ahmed");
+        // Names.Add("Ali");
+        // Names.Add("Amr");
+        // Names.Add("Ahmed");
+
+        // foreach (var item in Names)
+        // {
+        //     Console.WriteLine(item);
+        // } 
+        #endregion
 
 
 
